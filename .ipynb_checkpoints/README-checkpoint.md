@@ -4,3 +4,8 @@ This repository is meant to provide functions to calculate the energy required t
 
 ## Nucleation
 Nucleation is the process of solidification of a liquid species. In this case we are going to focus on the solidification of metals.
+
+As mentioned by Javad, Hashemi (). Energies Involved in Homogeneous Nucleation In the homogeneous nucleation of a solidifying pure metal, two kinds of energy changes must be considered: (1) the volume (or bulk) free energy released by the liquid-to-solid transformation and (2) the surface energy required to form the new solid surfaces of the solidified particles.
+
+
+# References
